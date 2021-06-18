@@ -1,0 +1,52 @@
+ion-item{
+  margin-top: 10px;
+  color: #ff0000;
+  border-radius: 15px;
+  margin-left: 2.5px;
+  margin-right: 2.5px;
+}
+
+h3{
+  font-weight: bold;
+  text-align: center;
+  font-size: 15px;
+}
+
+p{
+  font-weight: normal;
+  font-size: 13px;
+  color: #ffffff;
+}
+
+.item-lista{
+  height: 120px;
+  text-align: justify;
+
+  h3{
+    color: #ff0000;
+    font-size: 18px;
+  }
+}
+
+.lista{
+  color: #a9a9a9;
+  text-align: initial;
+  font-size: 11px;
+}
+
+.espaco-img {
+  height: 130px;
+  width: 90px;
+  margin-left: -10px;
+  margin-top: -10px;
+  margin-bottom: -10px;
+  margin-right: 10px;
+  img{
+  border-radius: 10px;
+  }
+}
+
+.desc{
+  font-size: 10px;
+}
+
